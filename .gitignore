@@ -84,3 +84,6 @@ data/models/*.h5
 data/models/*.pt
 data/models/*.pth
 data/models/*.onnx
+
+# Large raw CSV datasets
+data/raw/*.csv
