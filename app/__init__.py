@@ -1,0 +1,1 @@
+# FarmerChat core package
